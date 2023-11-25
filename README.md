@@ -20,3 +20,4 @@ Each script can be run from the command line by navigating to the script's direc
 ## Note
 Please make sure to review the scripts and the commands in them before running them. The script may cause harm to your systems if you run them in wrong way. Also make sure that you have the necessary permissions to run the scripts.
 
+this note created by sahil tamboli
